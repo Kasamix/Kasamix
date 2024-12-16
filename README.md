@@ -6,7 +6,7 @@ Hey there! I'm David. 2nd year Software Engineering Student at McGill University
 Currently, I am interning at Ericsson and working on the Global Network Platform.
 
 Check out my projects here:
-- [Portfolio]((https://github.com/Kasamix/portfolio))
+- [Portfolio](https://github.com/Kasamix/portfolio)
 <!--
 **Kasamix/Kasamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
