@@ -3,8 +3,15 @@
 
 Hey there! I'm David. 2nd year Software Engineering Student at McGill University. Currently, I am interning at Ericsson and working on the Global Network Platform.
 
-Check out my projects here:
+📚 Check out my projects here:
 - [Portfolio](https://github.com/Kasamix/portfolio)
+
+🛠 Tools
+- Languages: Python, Java, C, Bash, React, JS, CSS, HTML 
+- Technologies: Docker, Kubernetes, MongoDB, Azure, Flask, Maven, Gradle
+
+🤠 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kasamix/)
 <!--
 **Kasamix/Kasamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
