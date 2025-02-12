@@ -1,7 +1,7 @@
 ## Welcome to my page! 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kasamix&color=4b4896&style=for-the-badge)
 
-Hey there! I'm David. 2nd year Software Engineering Student at McGill University. Currently, I am interning at Ericsson and working on the Global Network Platform.
+Hey there! I'm David. I'm a Software Engineering Student at McGill University.
 
 📚 Check out my projects here:
 - [Portfolio](https://github.com/Kasamix/portfolio)
