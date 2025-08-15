@@ -15,7 +15,7 @@
 </p>
 
 <div align="left">
-  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="130" alt="cozy gif"/>
+  <img align="right" src="https://i.pinimg.com/originals/14/db/ab/14dbab0d7ba16735863dff0a7002b455.gif" width="130" alt="cozy gif"/>
   <p><strong>I'm currently studying Software Engineering at McGill University.</strong>  
   I love coding, building, learning, and exploring! 🚀</p>
   <p><strong>💻 Programming Languages:</strong> Python, Java, C, C++, JS, HTML/CSS, React, Angular, SQL
@@ -34,7 +34,10 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🤖 [QA AI Assistant Chatbot]() | Dec 2024 | Python, React, JS, HTML, Docker, RASA, Bash/Linux, Flask, Artifactory | Developed a QA AI Chatbot Assistant to automate load performance tests for the Global Network Platform. |
+| 📊 [Regression Test Automation Tool](#) | Summer 2025 | Java, Node.js, Angular, Postman, OracleDB, Maven | Developed an internal regression automation tool to validate microservices integration. Automated regression testing for REST APIs, supported migration and modularization of Java Spring microservices. |
+| 🔥 [Firefighter Rescue Robot](https://github.com/jrogan5/DPM-Group17) | Mar 2025 | Python, Raspberry Pi | Built an autonomous LEGO robot to navigate a simulated building, detect and extinguish fires, avoid obstacles, and return to base |
+| 🎲 [Boardr](https://github.com/McGill-ECSE321-Winter2025/project-group-12) | Winter 2025 | Java, Vue, JavaScript, Gradle, PostgreSQL, Node.js | Created a platform for board game enthusiasts to connect, organize events, and play games |
+| 🤖 [QA AI Assistant Chatbot]() | Dec 2024 | Python, React, Docker, Bash/Linux, Flask | Developed a QA AI Chatbot Assistant to automate load performance tests for the Global Network Platform. |
 | 📝 [School Supplies Management Platform](https://github.com/Kasamix/CoolSupplies) | Nov 2024 | Java, JavaFX, Gherkin, Cucumber, Figma, UML | Designed, created, and deployed a platform for parents to order school supplies for their children. |
 | 🚗 [Vehicle Fuel Optimizer](https://github.com/Kasamix/VehicleFuelOptimizer) | May 2023 | Python, PyTorch, SQL, Matplotlib | Developed a vehicle analysis program using cost-per-mile and opportunity cost metrics to optimize highway speed. |
 | 🕰 [Pendulum Simulation](https://github.com/Kasamix/PendulumSimulation) | Apr 2023 | Python, Numpy, Matplotlib | Simulated a pendulum using Euler vs. Verlet algorithms to analyze precision and stability. |
@@ -46,9 +49,7 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kasamix/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/kasamix"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/davidvvv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
