@@ -1,11 +1,11 @@
 <p align="center">
   <img
     width="100%"
-    src=https://capsule-render.vercel.app/api?type=venom&height=300&color=0:714DFF,31:9C83FF,78:E151FF,95:ffaa59&text=David%20Vo&reversal=false&textBg=false&fontAlign=48&animation=fadeIn&fontColor=FFFFFF
+    src=https://capsule-render.vercel.app/api?type=blur&height=300&color=0:714DFF,31:9C83FF,78:E151FF,95:ffaa59&text=David%20Vo&reversal=false&textBg=false&fontAlign=48&animation=fadeIn&fontColor=FFFFFF
   />
   <br/>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2500&pause=500&color=00B3FF&center=true&width=850&lines=%F0%9F%9A%80+Hi!+I'm+David;I'm+a+Software+Engineering+Student+at+McGill;👋+Welcome+to+my+page+lol+%3A)"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2500&pause=500&color=FFFFFF&center=true&width=850&lines=%F0%9F%9A%80+Hi!+I'm+David;I'm+a+Software+Engineering+Student+at+McGill;👋+Welcome+to+my+page+lol+%3A)"
     alt="Typing Intro"
   />
 </p>
