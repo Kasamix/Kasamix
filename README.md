@@ -34,10 +34,10 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 📊 Regression Test Automation Tool [Intact]| Summer 2025 | Java, Node.js, Angular, Postman, OracleDB, Maven | Developed an internal regression automation tool to validate microservices integration. Automated regression testing for REST APIs, supported migration and modularization of Java Spring microservices. |
-| 🔥 [Firefighter Rescue Robot](https://github.com/jrogan5/DPM-Group17) | Mar 2025 | Python, Raspberry Pi | Built an autonomous LEGO robot to navigate a simulated building, detect and extinguish fires, avoid obstacles, and return to base |
-| 🎲 [Boardr](https://github.com/McGill-ECSE321-Winter2025/project-group-12) | Winter 2025 | Java, Vue, JavaScript, Gradle, PostgreSQL, Node.js | Created a platform for board game enthusiasts to connect, organize events, and play games |
-| 🤖 QA AI Assistant Chatbot [Ericsson]| Dec 2024 | Python, React, Docker, Bash/Linux, Flask | Developed a QA AI Chatbot Assistant to automate load performance tests for the Global Network Platform. |
+| 📊 Regression Test Automation Tool [Intact]| May-Aug 2025 | Java, Node.js, Angular, Postman, OracleDB, Maven | Developed an internal regression automation tool to validate microservices integration. Automated regression testing for REST APIs, supported migration and modularization of Java Spring microservices. |
+| 🔥 [Firefighter Rescue Robot](https://github.com/jrogan5/DPM-Group17) | Apr 2025 | Python, Raspberry Pi | Built an autonomous LEGO robot to navigate a simulated building, detect and extinguish fires, avoid obstacles, and return to base |
+| 🎲 [Boardr](https://github.com/McGill-ECSE321-Winter2025/project-group-12) | Mar 2025 | Java, Vue, JavaScript, Gradle, PostgreSQL, Node.js | Created a platform for board game enthusiasts to connect, organize events, and play games |
+| 🤖 QA AI Assistant Chatbot [Ericsson]| May-Dec 2024 | Python, React, Docker, Bash/Linux, Flask | Developed a QA AI Chatbot Assistant to automate load performance tests for the Global Network Platform. |
 | 📝 CoolSupplies| Nov 2024 | Java, JavaFX, Gherkin, Cucumber, Figma, UML | Designed, created, and deployed a platform for parents to order school supplies for their children. |
 | 🚗 [Vehicle Fuel Optimizer](https://github.com/Kasamix/VehicleFuelOptimizer) | May 2023 | Python, PyTorch, SQL, Matplotlib | Developed a vehicle analysis program using cost-per-mile and opportunity cost metrics to optimize highway speed. |
 | 🕰 [Pendulum Simulation](https://github.com/Kasamix/PendulumSimulation) | Apr 2023 | Python, Numpy, Matplotlib | Simulated a pendulum using Euler vs. Verlet algorithms to analyze precision and stability. |
