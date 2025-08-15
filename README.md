@@ -17,7 +17,7 @@
 <div align="left">
   <img align="right" src="https://i.pinimg.com/originals/14/db/ab/14dbab0d7ba16735863dff0a7002b455.gif" width="130" alt="cozy gif"/>
   <p><strong>I'm currently studying Software Engineering at McGill University.</strong>  
-  I love coding, building, learning, and exploring! 🚀</p>
+  I love coding, learning, and exploring! 🚀</p>
   <p><strong>💻 Programming Languages:</strong> Python, Java, C, C++, JS, HTML/CSS, React, Angular, SQL
 </div>
 
