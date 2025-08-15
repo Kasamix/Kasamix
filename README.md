@@ -14,20 +14,8 @@
   />
 </p>
 
-
-
-
-## Welcome to my page! 👋
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kasamix&color=4b4896&style=for-the-badge)
-
-Hey there! I'm David. I'm a Software Engineering Student at McGill University.
-
 📚 Check out my projects here:
 - [Portfolio](https://github.com/Kasamix/portfolio)
-
-🛠 Tools
-- Languages: Python, Java, C, Bash, React, JS, CSS, HTML 
-- Technologies: Docker, Kubernetes, MongoDB, Azure, Flask, Maven, Gradle
 
 🤠 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kasamix/)
@@ -44,6 +32,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kasamix&color=4b4896&style=for-the-badge)
+
+
 <p align="center">
  <img
     width="100%"
