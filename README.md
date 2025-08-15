@@ -5,7 +5,7 @@
   />
   <img
     width="100%"
-    src=https://capsule-render.vercel.app/api?type=venom&height=300&color=0:714DFF,31:9C83FF,78:E151FF,95:ffaa59&text=Hi+I'm+David&reversal=false&textBg=false&fontAlign=48&animation=fadeIn&fontColor=FFFFFF
+    src=https://capsule-render.vercel.app/api?type=blur&height=300&color=0:714DFF,31:9C83FF,78:E151FF,95:ffaa59&text=Hi+I'm+David&reversal=false&textBg=false&fontAlign=48&animation=fadeIn&fontColor=FFFFFF
   />
   <br/>
   <img
